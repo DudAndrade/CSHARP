@@ -1,0 +1,5 @@
+C:\Users\Aluno\Desktop\Yasmin\CSharp\PrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Yasmin\CSharp\PrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\Yasmin\CSharp\PrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Yasmin\CSharp\PrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Yasmin\CSharp\PrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.csproj.CoreCompileInputs.cache
