@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\Yasmin\\CSharp\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+      "projectUniqueName": "E:\\Documentos\\CSHARP\\Duda\\CSharp\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
       "projectName": "PrimeiroProjeto",
-      "projectPath": "C:\\Users\\Aluno\\Desktop\\Yasmin\\CSharp\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+      "projectPath": "E:\\Documentos\\CSHARP\\Duda\\CSharp\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Desktop\\Yasmin\\CSharp\\PrimeiroProjeto\\obj\\",
+      "outputPath": "E:\\Documentos\\CSHARP\\Duda\\CSharp\\PrimeiroProjeto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
