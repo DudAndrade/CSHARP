@@ -32,6 +32,20 @@ namespace meuPrimeiroProjeto
 
             Console.WriteLine ("A conta é do(a) " + conta_do_sanches.Titular + ", a agência é "
              + conta_do_sanches.Agencia + " e o número é " + conta_do_sanches.Numero + " Saldo " + conta_do_sanches.Saldo + ".");
+        
+             bool depositar_conta =  conta_da_barbara.Depositar(50);
+             bool depositar_conta1 =  conta_da_mariana.Depositar(50);
+             bool depositar_conta2 =  conta_do_sanches.Depositar(50);
+
+            Console.WriteLine ("A conta é do(a) " + conta_da_barbara.Titular + ", a agência é "
+             + conta_da_barbara.Agencia + " e o número é " + conta_da_barbara.Numero + " Saldo " + conta_da_barbara.Saldo + ".");
+
+            Console.WriteLine ("A conta é do(a) " + conta_da_mariana.Titular + ", a agência é "
+             + conta_da_mariana.Agencia + " e o número é " + conta_da_mariana.Numero + " Saldo " + conta_da_mariana.Saldo + ".");
+
+            Console.WriteLine ("A conta é do(a) " + conta_do_sanches.Titular + ", a agência é "
+             + conta_do_sanches.Agencia + " e o número é " + conta_do_sanches.Numero + " Saldo " + conta_do_sanches.Saldo + ".");
+               
         }
     }    
 }

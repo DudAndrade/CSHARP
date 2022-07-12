@@ -19,6 +19,13 @@ public class ContaCorrente     //classe pública
         }
         return false;
      }
+       public bool Depositar(double valorDepositar){
+        if(valorDepositar >= 1){
+           this.Saldo = Saldo + valorDepositar; 
+           return true;
+        }
+        return false;
+     }
 }
    
 
